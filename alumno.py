@@ -22,3 +22,4 @@ class Alumno():
 
 a = Alumno(188,"Lorena",9,8,9)
 print(a.nota_final())
+
